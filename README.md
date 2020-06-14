@@ -1,2 +1,2 @@
-# PyBegi_Okinawa22
-PythonBeginnersOkinawa 22 の資料
+# PyBegi_Okinawa28
+PythonBeginnersOkinawa 28 の資料
